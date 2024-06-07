@@ -1,0 +1,17 @@
+{
+  "consoleEnabled": true,
+  "consoleMessageFormat" : {
+    "showDate": true,
+    "showMessage": true,
+    "showLevel": true
+  },
+  "consoleLogLevel": "DEBUG",
+  "logIntoFileEnabled": true,
+  "logFileCapacity": 200,
+  "fileLogLevel": "DEBUG",
+  "fileMessageFormat" : {
+    "showDate": true,
+    "showMessage": true,
+    "showLevel": true
+  }
+}
